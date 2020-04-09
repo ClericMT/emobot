@@ -1,2 +1,2 @@
 # emobot
-Bot that responds to frequency with "emotion"
+Bot that responds to input sequence of three frequencies with output sound effect
